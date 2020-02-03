@@ -79,5 +79,17 @@ Dos padrões GOF:
 
 
 ### 8. Idem para GRASP
+| Padrão            | Conceito                                                                                    |
+--------------------|---------------------------------------------------------------------------------------------|
+| Information Expert| Determina quando devemos delegar a responsabilidade para um outro objeto que seja especialista naquele domínio |
+| Creator           | Determina qual classe deve ser responsável pela criação certos objetos                      |
+| Controller        | Atribui a responsabilidade de lidar com os eventos do sistema para uma classe que representa a um cenário de caso de uso do sistema global |
+| Low Coupling      | Determina que as classes não devem depender de objetos concretos e sim de abstrações, para permitir que haja mudanças sem impacto |
+| High Cohesion     | Este princípio determina que as classes devem se focar apenas na sua responsabilidade       |
+| Polymorphism      | As responsabilidades devem ser atribuídas a abstrações e não a objetos concretos, permitindo que eles possam variar conforme a necessidade |
+| Pure Fabrication  | É uma classe que não representa nenhum conceito no domínio do problema, ela apenas funciona como uma classe prestadora de serviços, e é projetada para que possamos ter um baixo acoplamento e alta coesão no sistema |
+| Indirection       | Este princípio ajuda a manter o baixo acoplamento, através de delegação de responsabilidades através de uma classe mediadora |
+| Protected Variations | Protege o sistema com a variação de componentes, encapsulando o comportamento que realmente importa                                  |
+
 ### 9. Existem outros padrões além destes? Dê exemplos.
 ### 10. Você já pensou em criar uma biblioteca de padrões seus? Mostre um exemplo em caso positivo
