@@ -96,3 +96,10 @@ Sim, um exemplo é a *Injeção de Dependência* que é usado para evitar o alto
 
 ### 10. Você já pensou em criar uma biblioteca de padrões seus? Mostre um exemplo em caso positivo.
 Não
+
+
+## Referências
+[Devmedia](https://www.devmedia.com.br/design-patterns-padroes-gof/16781)
+[Treina Web](https://www.treinaweb.com.br/blog/padroes-de-projeto-o-que-sao-e-o-que-resolvem/)
+[IGTI](https://igti.com.br/blog/uma-introducao-aos-padroes-de-projeto/)
+[Medium](https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204)
