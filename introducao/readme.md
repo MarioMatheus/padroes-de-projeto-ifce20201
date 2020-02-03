@@ -58,8 +58,25 @@ Dos padrões GOF:
 | Factory Method    | As subclasses decidem quais classes concretas serão criadas                                 |
 | Prototype         | Permite você criar novas instancias simplesmente copiando instancias existentes             |
 | Singleton         | Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto      |
---------------------|---------------------------------------------------------------------------------------------|
-| Singleton         | Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto      |
+| Adapter           | Envelopa um objeto e fornece a ele uma interface diferente                                  |
+| Bridge            | Permite criar uma ponte para variar não apenas a sua implementação, como também as suas abstrações |
+| Composite         | Os clientes tratam as coleções de objetos e os objetos individuais de maneira uniforme      |
+| Decorator         | Envelopa um objeto para fornecer novos comportamentos                                       |
+| Facade            | Simplifica a interface de um conjunto de classes                                            |
+| Flyweight         | Uma instancia de uma classe pode ser usada para fornecer muitas “instancias virtuais”       |
+| Proxy             | Envelopa um objeto para controlar o acesso a ele                                            |
+| Chain of Responsibility | Permite dar a mais de um objeto a oportunidade de processar uma solicitação           |
+| Command           | Encapsula uma solicitação como um objeto                                                    |
+| Interpreter       | Permite construir um intérprete para uma linguagem                                          |
+| Iterator          | Fornece uma maneira de acessar seqüencialmente uma coleção de objetos sem expor a sua implementação |
+| Mediator          | Centraliza operações complexas de comunicação e controle entre objetos relacionados         |
+| Memento           | Permite restaurar um objeto a um dos seus estados prévios                                   |
+| Observer          | Permite notificar outros objetos quando ocorre uma mudança de estado                        |
+| State             | Encapsula comportamentos baseados em estados e usa a delegação para alternar comportamentos |
+| Strategy          | Encapsula comportamentos intercambiáveis e usa a delegação para decidir qual deles será usado |
+| Template Method   | As subclasses decidem como implementar os passos de um algoritimo                           |
+| Visitor           | Permite acrescentar novos recursos a um composto de objetos e o encapsulamento não é importante|
+
 
 ### 8. Idem para GRASP
 ### 9. Existem outros padrões além destes? Dê exemplos.
