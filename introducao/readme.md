@@ -10,7 +10,7 @@ Visam facilitar a reutilização de soluções de projetos e estabelecem um voca
 Os conceitos definidos pelos padrões permanecem os mesmos, por mais que o código de um padrão apresentado em diferentes linguagens possam ser diferentes.
 
 ### 4. Quem criou o termo?
-Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides quando escreveram o livro “Design Patterns: Elements of Reusable Object-Oriented Software”
+Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides quando escreveram o livro *“Design Patterns: Elements of Reusable Object-Oriented Software”*
 
 ### 5. Quais categorias existem?
 Dos padrões GOF:
@@ -100,6 +100,9 @@ Não
 
 ## Referências
 [Devmedia](https://www.devmedia.com.br/design-patterns-padroes-gof/16781)
+
 [Treina Web](https://www.treinaweb.com.br/blog/padroes-de-projeto-o-que-sao-e-o-que-resolvem/)
+
 [IGTI](https://igti.com.br/blog/uma-introducao-aos-padroes-de-projeto/)
+
 [Medium](https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204)
