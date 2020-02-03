@@ -92,4 +92,7 @@ Dos padrões GOF:
 | Protected Variations | Protege o sistema com a variação de componentes, encapsulando o comportamento que realmente importa                                  |
 
 ### 9. Existem outros padrões além destes? Dê exemplos.
-### 10. Você já pensou em criar uma biblioteca de padrões seus? Mostre um exemplo em caso positivo
+Sim, um exemplo é a *Injeção de Dependência* que é usado para evitar o alto nível de acoplamento de código dentro de uma aplicação. Outro exemplo é o padrão *Repository*, no qual sua utilização contribui no isolamento da camada de acesso a dados com a camada de negócio.
+
+### 10. Você já pensou em criar uma biblioteca de padrões seus? Mostre um exemplo em caso positivo.
+Não
