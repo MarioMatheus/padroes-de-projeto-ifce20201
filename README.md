@@ -2,3 +2,4 @@
 Material da disciplina de Padrões de Projeto do IFCE
 
 [Introdução](/introducao)
+[Abstract Factory](/abstract_factory)
